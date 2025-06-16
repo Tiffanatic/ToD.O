@@ -1,0 +1,6 @@
+@ToD.O.Api_HostAddress = http://localhost:5120
+
+GET {{ToD.O.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
